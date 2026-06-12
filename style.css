@@ -80,3 +80,106 @@
   color: rgb(70, 70, 70);
   background-color: aliceblue;
 }
+
+.two {
+  border: 1px solid aliceblue;
+  border-radius: 1.5em;
+  margin-top: 10%;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-bottom: 1%;
+}
+
+.twoChoices {
+  display: flex;
+  justify-content: space-around;
+  font-size: 0.75em;
+}
+
+.twoChoices div {
+  border: 1px solid aliceblue;
+  border-radius: 1.5em;
+  padding: 1%;
+}
+
+.person1:hover {
+  color: rgb(70, 70, 70);
+  background-color: aliceblue;
+}
+
+.person1:hover h2 {
+  color: rgb(70, 70, 70);
+  background-color: aliceblue;
+}
+
+.person2:hover {
+  color: rgb(70, 70, 70);
+  background-color: aliceblue;
+}
+
+.person2:hover h2 {
+  color: rgb(70, 70, 70);
+  background-color: aliceblue;
+}
+
+.pickPerson1 {
+  border: 1px solid aliceblue;
+  border-radius: 1.5em;
+  margin-top: 10%;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-bottom: 1%;
+}
+
+.person1Choices {
+  display: flex;
+  justify-content: space-around;
+  font-size: 0.75em;
+}
+
+.person1Choices div {
+  border: 1px solid aliceblue;
+  border-radius: 1.5em;
+  padding: 1%;
+}
+
+.person1Pick1:hover {
+  color: rgb(70, 70, 70);
+  background-color: aliceblue;
+}
+
+.person1Pick1:hover h2 {
+  color: rgb(70, 70, 70);
+  background-color: aliceblue;
+}
+
+.person1Pick2:hover {
+  color: rgb(70, 70, 70);
+  background-color: aliceblue;
+}
+
+.person1Pick2:hover h2 {
+  color: rgb(70, 70, 70);
+  background-color: aliceblue;
+}
+
+.fired {
+  border: 1px solid aliceblue;
+  border-radius: 1.5em;
+  margin-top: 10%;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-bottom: 1%;
+}
+
+.h1Keep {
+  border: 1px solid aliceblue;
+  border-radius: 1.5em;
+  margin-top: 10%;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+}
