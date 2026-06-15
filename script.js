@@ -61,7 +61,7 @@ person1Pick2.addEventListener("click", function () {
   pickPerson1.style.display = "none";
   fired.style.display = "block";
 });
-retry1.addEventListener("click", function () {
+retry1.addEventListener("dbclick", function () {
   location.reload();
 });
 
@@ -74,7 +74,7 @@ person2Pick1.addEventListener("click", function () {
   person2.style.display = "none";
   keep2.style.display = "block";
 });
-retry2.addEventListener("click", function () {
+retry2.addEventListener("dbclick", function () {
   location.reload();
 });
 person2Pick2.addEventListener("click", function () {
@@ -87,6 +87,6 @@ twoChoice.addEventListener("click", function () {
   one.style.display = "none";
   intern.style.display = "block";
 });
-retry.addEventListener("click", function () {
+retry.addEventListener("dbclick", function () {
   location.reload();
 });

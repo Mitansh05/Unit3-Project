@@ -101,6 +101,11 @@ hr {
   padding-right: 2%;
 }
 
+.internImg {
+  width: 50%;
+  height: 50%;
+}
+
 .two {
   border: 1px solid aliceblue;
   border-radius: 1.5em;
